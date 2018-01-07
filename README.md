@@ -57,6 +57,7 @@ eg: `com.apple.pages`
 
 ###### APP REJECTION 
 >_App rejection is not a "cul-de-sac". So fix the issues and re submit_
+
 Your app may be rejected due to following (popular) reasons
 1. App has a _login_ screen but no *signup* page. (need to provide clarification)
 2. Developers have used any private api (like giniee animation effect)
