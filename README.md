@@ -1,5 +1,6 @@
-### BASIC CHECKLIST ✅
+<br>
 
+### BASIC CHECKLIST 
 
 
 #### Developer Accounts
@@ -28,9 +29,10 @@ I use this handy [Mac App](https://itunes.apple.com/us/app/asset-catalog-creator
 13. Latest Xcode version (not beta or GM Seeds)
 
 
+<br><br>
+----
 
-#
-### NOTES & PRACTICES: 📘
+### NOTES & PRACTICES:
 
 1. A developer can submit the app and opt for "developer release" which means the app is not automatically made available to the public untill the developer choose to.
 
@@ -41,15 +43,18 @@ Format: `com.company.app-vertical` \
 eg: `com.apple.pages`
 
 
-#
-#### AFTER SUBMISSION 🛫
+----
+
+###### AFTER SUBMISSION 
 _App is reviewed by apple review team_
 1. It takes 3 hours to 7+ (working) days for app to be reviewed
 2. For first time upload, it may take more than 3 days.
 
 
-#
-#### APP REJECTION 👎🏻
+
+----
+
+###### APP REJECTION 
 _App rejection is not a "cul-de-sac". So fix the issues and re submit_
 Your app may be rejected due to following (popular) reasons
 1. App has a _login_ screen but no *signup* page. (need to provide clarification)
@@ -58,6 +63,7 @@ Your app may be rejected due to following (popular) reasons
 4. bla bla bla
  
 
-__
-
-```FIN``` 🏁
+<br><br><br>
+----
+<center> ```FIN``` 🏁 </center> 
+<br>
