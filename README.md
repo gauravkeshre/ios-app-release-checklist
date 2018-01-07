@@ -1,37 +1,66 @@
-## Welcome to GitHub Pages
+## BASIC CHECKLIST
+##### Developer Accounts
+1. Apple developer account (appstore)
+2. Production certificates, provisioning profile
 
-You can use the [editor on GitHub](https://github.com/gauravkeshre/iOSAppReleaseChecklist/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Appstore
+3. Appstore app name
+4. Appstore subtitle name (optional)
+5. Appstore app description
+6. Screenshots
+7. 1024 X 1024 icon
+8. App preview video (optional)
+9. Keywords
+10. Categories (need to be chosen from a drop down, good if we know in advance)
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### Assets
+11. Proper app icon in all required resolutions as per [HIG](https://developer.apple.com/library/content/qa/qa1686/_index.html)
+PS: I use this [Mac App](https://itunes.apple.com/us/app/asset-catalog-creator-free/id866571115) 
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Developer
+12. Proper App Version (1.0 for first release)
+13. Latest Xcode version (not beta or GM Seeds)
 
-- Bulleted
-- List
+----
+#
+#
+#
+##### NOTES & PRACTICES:
+--- Good to know. Better to follow
+1. A developer can submit the app and opt for "developer release" which means the app is not automatically made available to the public untill the developer choose to.
 
-1. Numbered
-2. List
+2. Don't stress too much on SKU number. It can be any string (it shohuld make sense to you)
 
-**Bold** and _Italic_ and `Code` text
+3. choose bundle Identifier wisely 
+Format: `com.company.app-vertical` 
+eg: `com.apple.pages`
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+----
+#
+#
+#
+##### AFTER SUBMISSION
+-- App is reviewed by apple review team 
+1. It takes 3 hours to 7+ (working) days for app to be reviewed
+2. For first time upload, it may take more than 3 days.
 
-### Jekyll Themes
+----
+#
+#
+#
+##### APP REJECTION
+-- App rejection is not a "cul-de-sac". So fix the issues and re submit
+Your app may be rejected due to following (popular) reasons
+1. App has a _login_ screen but no *signup* page. (need to provide clarification)
+2. Developers have used any private api (like giniee animation effect)
+3. App crashes very often. 
+4. bla bla bla
+ 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gauravkeshre/iOSAppReleaseChecklist/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+__
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+```FIN```
