@@ -20,7 +20,7 @@
 
 
 #### Assets
-11. Proper app icon in all required resolutions as per [HIG](https://developer.apple.com/library/content/qa/qa1686/_index.html) \
+11. Proper app icon in all required resolutions as per [HIG](https://developer.apple.com/library/content/qa/qa1686/_index.html) <br>
 I use this handy [Mac App](https://itunes.apple.com/us/app/asset-catalog-creator-free/id866571115) 
 
 
@@ -38,15 +38,16 @@ I use this handy [Mac App](https://itunes.apple.com/us/app/asset-catalog-creator
 
 2. Don't stress too much on SKU number. It can be any string (it shohuld make sense to you)
 
-3. choose bundle Identifier wisely \
-Format: `com.company.app-vertical` \
+3. choose bundle Identifier wisely <br>
+Format: `com.company.app-vertical` <br>
 eg: `com.apple.pages`
 
 
 ----
 
 ###### AFTER SUBMISSION 
-_App is reviewed by apple review team_
+> _App is reviewed by apple review team_
+ 
 1. It takes 3 hours to 7+ (working) days for app to be reviewed
 2. For first time upload, it may take more than 3 days.
 
@@ -55,7 +56,7 @@ _App is reviewed by apple review team_
 ----
 
 ###### APP REJECTION 
-_App rejection is not a "cul-de-sac". So fix the issues and re submit_
+>_App rejection is not a "cul-de-sac". So fix the issues and re submit_
 Your app may be rejected due to following (popular) reasons
 1. App has a _login_ screen but no *signup* page. (need to provide clarification)
 2. Developers have used any private api (like giniee animation effect)
